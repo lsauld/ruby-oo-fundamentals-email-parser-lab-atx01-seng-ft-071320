@@ -1,15 +1,15 @@
 # Object Oriented Email Parser
 
 ## Learning Goals
-
+<!-- 
 - Practice defining a class and using an `attr_accessor` to create setter and
   getter methods
-- Use TDD to write working code
+- Use TDD to write working code -->
 
 ## Description
 
-You will be writing an `EmailAddressParser` class that gets initialized with a string
-of emails.
+<!-- You will be writing an `EmailAddressParser` class that gets initialized with a string
+of emails. -->
 
 Your job is to parse those email addresses into a useful array using an instance
 method, `parse`.
